@@ -1,0 +1,2 @@
+Grsecurity and gradm are licensed under the GNU GPL version 2 only.
+Know your rights! As a customer of any product that uses grsecurity in binary form, you are entitled to the complete corresponding source code. Companies who do not ship the complete corresponding source code alongside distributed binaries must provide you with a written offer for the source code transferrable to any other person and valid for three years. Please report any violations of our GPL license to spender@grsecurity.net.
